@@ -15,7 +15,7 @@ function App() {
   return (
     <>
       <h1>Pokeman!</h1>
-      <PokemonList pokemon={pokeman} />
+      <PokemonList pokemon={pokemon} />
     </>
   );
 }
